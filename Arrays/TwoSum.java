@@ -1,3 +1,8 @@
+// LeetCode 1 - Two Sum
+// Difficulty: Easy
+// Approach: HashMap
+// Time Complexity: O(n)
+
 import java.util.HashMap;
 import java.util.Map;
 
