@@ -8,10 +8,9 @@ I regularly solve problems to improve my:
 - Logical thinking
 - Coding interview preparation
 
-## Languages Used
+## Languages Used:
 - Java
 
-## 👨‍💻 Author
-
-Sabbir Ahmed Abir
-B.Tech CSE at KIIT University
+## 👨‍💻 Author:
+- Sabbir Ahmed Abir
+- B.Tech CSE at KIIT University
